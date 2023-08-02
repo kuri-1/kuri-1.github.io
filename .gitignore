@@ -1,2 +1,8 @@
 .vscode/*
-!kuri-1.github.io.code-workspace
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*kuri-1github.io.code-workspace
+# Local History for Visual Studio Code
+.history/
